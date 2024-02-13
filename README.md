@@ -15,7 +15,7 @@
 
 ## 깃허브 정보
 ![rldnyt's github Status](https://github-readme-stats.vercel.app/api?username=rldnyt&show_icons=true&count_private=true&theme=radical)<br>
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=rldnyt&langs_count=100&theme=radical)
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=rldnyt&langs_count=100&theme=radical)<br>
 ~~깃허브 관리 안함~~
 
 ## 링크
